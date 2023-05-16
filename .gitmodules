@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FAOSTAT"]
+	path = FAOSTAT
+	url = https://gitlab.com/paulrougieux/faostatpackage
+	shallow = true
+	subdir = FAOSTAT
+	registered = true
